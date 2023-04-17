@@ -17,7 +17,7 @@ mydb = mysql.connector.connect(
 )
 c = mydb.cursor()
 
-c.execute("CREATE DATABASE PES2UG20CS370_Train_Lab10")
+#c.execute("CREATE DATABASE PES2UG20CS370_Train_Lab10")
 
 
 def main():
